@@ -1094,46 +1094,6 @@ body {
 .cid-qLZOoPxFWT .sign {
   color: #000000;
 }
-.cid-qM4NTuPxFd {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #cccccc;
-}
-.cid-qM4NTuPxFd .section-text {
-  padding: 2rem 0;
-  letter-spacing: 0.03em;
-}
-.cid-qM4NTuPxFd .inner-container {
-  margin: 0 auto;
-  position: relative;
-}
-.cid-qM4NTuPxFd .inner-container .mbr-iconfont {
-  z-index: 1;
-  position: absolute;
-  font-size: 9rem;
-  color: #efefef;
-  opacity: .1;
-}
-.cid-qM4NTuPxFd .inner-container .mbr-iconfont.left-top {
-  left: -1rem;
-  top: -1rem;
-}
-.cid-qM4NTuPxFd .inner-container .mbr-iconfont.right-down {
-  right: -1rem;
-  bottom: -1rem;
-}
-.cid-qM4NTuPxFd .inner-container .section-text {
-  z-index: 3;
-  min-height: 10rem;
-}
-@media (max-width: 767px) {
-  .cid-qM4NTuPxFd .inner-container {
-    width: 100% !important;
-  }
-  .cid-qM4NTuPxFd .mbr-iconfont {
-    font-size: 6rem !important;
-  }
-}
 .cid-qLZQ4u3J4P {
   padding-top: 15px;
   padding-bottom: 30px;
